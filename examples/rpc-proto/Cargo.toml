@@ -1,0 +1,7 @@
+[package]
+name = "rpc-proto"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+traitable = { path = "../.." }
